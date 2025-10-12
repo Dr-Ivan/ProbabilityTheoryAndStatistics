@@ -22,7 +22,14 @@
 - Результат
 - Описание
 
+## Дополнительно. Моделирование практических задач
+- [Результаты][topic_practice]
+- [Описание и условия задач][readme_practice]
+
 [topic1]:https://www.example.com
 [readme1]:https://www.example.com
 [topic2]:https://www.example.com
 [readme2]:https://www.example.com
+
+[topic_practice]://Моделирование%20практических%20задач/readme.md
+[readme_practice]://Моделирование%20практических%20задач/
